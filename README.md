@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 # Hi there, I'm Roshan Kumar 👋
-### Software Development Engineer | Backend & Distributed Systems | IIT Kharagpur
+### Software Development Engineer | Backend & Distributed Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Software+Development+Engineer+%40+TruckX;Distributed+Systems+%7C+Microservices+%7C+Cloud;Python+%7C+Django+%7C+FastAPI+%7C+Node.js;IIT+Kharagpur+Alumnus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Software+Development+Engineer;Distributed+Systems+%7C+Microservices+%7C+Cloud;Python+%7C+Django+%7C+FastAPI+%7C+Node.js;Real-time+Streaming+%26+IoT+Pipelines)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roshan-kumar-80472a216/" target="_blank">
@@ -37,10 +37,9 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** B.Tech from **IIT Kharagpur** (2019 – 2023).
-- 💼 **Current Role:** Software Development Engineer at **TruckX Inc.**, working on real-time IoT telematics, event-driven microservices, distributed pipelines, and cloud infrastructure.
-- 🔭 **Domain Expertise:** High-throughput backend systems, WebRTC/WebSockets, gRPC, event streaming (GCP Pub/Sub), and Kubernetes/GitOps deployments.
-- 💬 **Ask me about:** Python, Django, FastAPI, Node.js, WebSockets, gRPC, Redis, Docker, and GCP.
+- 🔭 **Focus:** Building high-throughput distributed systems, real-time telemetry streaming, and resilient event-driven microservices.
+- ⚙️ **Core Areas:** Backend architecture, WebRTC/WebSockets, gRPC communication, event-driven pipelines (Pub/Sub), and cloud-native deployments (Kubernetes, Docker).
+- 💬 **Ask me about:** Python, Django, FastAPI, Node.js, WebSockets, gRPC, Redis, and GCP.
 - 📫 **Reach out:** [roshankumar3216@gmail.com](mailto:roshankumar3216@gmail.com) • [LinkedIn](https://www.linkedin.com/in/roshan-kumar-80472a216/)
 
 ---
@@ -119,3 +118,4 @@ Here are some ideas to get you started:
 <div align="center">
   ⭐️ From <a href="https://github.com/roshan3216">roshan3216</a> — Feel free to explore my repositories!
 </div>
+
