@@ -105,8 +105,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan3216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Roshan's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan3216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=roshan3216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Roshan's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=roshan3216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
@@ -118,4 +118,3 @@ Here are some ideas to get you started:
 <div align="center">
   ⭐️ From <a href="https://github.com/roshan3216">roshan3216</a> — Feel free to explore my repositories!
 </div>
-
